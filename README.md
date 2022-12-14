@@ -17,7 +17,26 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## my_stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr-Konovalov&theme=solarized_dark)
 
 
 
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexsandr-Konovalov&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+
+
+## my_training_room:
+
+[![codewars](https://www.codewars.com/users/Alexsandr-Konovalov/badges/micro)](https://www.codewars.com/users/Alexsandr-Konovalov) 
+
+*visits:*
+> ![](https://komarev.com/ghpvc/?username=Alexsandr-Konovalov)
