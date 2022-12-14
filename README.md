@@ -28,10 +28,7 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexsandr-Konovalov&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexsandr-Konovalov&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
 
 ## my_training_room:
