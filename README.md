@@ -35,5 +35,8 @@
 
 [![codewars](https://www.codewars.com/users/Alexsandr-Konovalov/badges/micro)](https://www.codewars.com/users/Alexsandr-Konovalov) 
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/Alexsandr-Konovalov/Alexsandr-Konovalov/blob/output/github-contribution-grid-snake.gif)
+
 *visits:*
 > ![](https://komarev.com/ghpvc/?username=Alexsandr-Konovalov)
