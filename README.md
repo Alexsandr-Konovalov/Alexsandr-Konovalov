@@ -4,7 +4,7 @@
 Я хорошо организованный человек, умеющий решать проблемы, в качестве сотрудника с большим вниманием к деталям. Поклонник ММА, активного отдыха, сериалов и шахмат. Семейный человек и отец чудесной дочери!
 Интересуюсь всем спектром web разработки и работаю над амбициозными проектами с позитивными людьми.
 Хочешь обсудить проект?* 
-Напиши мне: [master-web.ru@yandex.ru](https://master-web.ru@yandex.ru)
+Напиши мне: [cybersintax@gmail.com](https://cybersintax@gmail.com)
 
 ## my skills:
 
@@ -12,7 +12,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
