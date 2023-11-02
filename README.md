@@ -23,14 +23,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr-Konovalov&theme=solarized_dark)
 
 
-
-
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexsandr-Konovalov&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 
 
-
+[Резюме](https://docs.google.com/spreadsheets/d/1oZ265viFCbtxLEx8i5Cbcr0yeXx47efezo_c1x-GxmA/edit#gid=0)
 
 *visits:*
 > ![](https://komarev.com/ghpvc/?username=Alexsandr-Konovalov)
