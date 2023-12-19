@@ -1,10 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Radiotehnika&weight=600&size=24&pause=1000&color=42AAFF&width=435&lines=Hi%2C+I'm+Alexandr+" alt="Typing SVG" /></a>
 
-> *Я web master. У меня есть серьезная страсть к эффектам анимации и созданию интуитивно понятного, динамичного пользовательского интерфейса, всегда стремлюсь к достижению качества при создании продукта.
-Я хорошо организован, умею решать проблемы, в качестве сотрудника с большим вниманием к деталям. Поклонник ММА, активного отдыха, сериалов и шахмат. Семейный человек и отец чудесной дочери!
-Интересуюсь всем спектром web разработки и работаю над амбициозными проектами с позитивными людьми.
-Хочешь обсудить проект?* 
-Напиши мне: [cybersintax@gmail.com](https://cybersintax@gmail.com)
+> I am a webmaster. I have a serious passion for animation effects and creating an intuitive, dynamic user interface, and I always strive to achieve quality when creating a product. I am well organized, able to solve problems, as an employee with great attention to detail. He is a fan of MMA, outdoor activities, TV series and chess. A family man and the father of a wonderful daughter! I am interested in the full range of web development and work on ambitious projects with positive people. Do you want to discuss the project? Write me: [cybersintax@gmail.com](https://cybersintax@gmail.com)
 
 ## my skills:
 
